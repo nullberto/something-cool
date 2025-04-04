@@ -1,1 +1,5 @@
 // Main.js
+
+function main(){
+	
+}
